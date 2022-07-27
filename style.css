@@ -51,7 +51,7 @@ a {
   margin: 0;
   margin-bottom: 15px;
   font-size: 18px;
-  text-align: center;
+  text-align: left;
 }
 
 .post_image {
@@ -69,4 +69,9 @@ a {
 .contacts_list li a {
   color: blue;
   text-decoration: none;
+}
+
+.rodape {
+  font-size: 15px;
+  padding-left: 50px;
 }
